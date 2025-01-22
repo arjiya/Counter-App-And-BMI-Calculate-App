@@ -1,0 +1,108 @@
+#bmi {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    margin-top:80px;
+    width:500px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  #bmi h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #bmi p {
+    text-align: center;
+    color: #555;
+    font-size: 16px;
+  }
+  
+  #bmi form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  #bmi label {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  #bmi input {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  #bmi button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  #bmi button:hover {
+    background-color: #218838;
+  }
+  .flex {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .gap-3 {
+    gap: 0.75rem;
+  }
+  
+  .gap-4 {
+    gap: 1rem;
+  }
+  
+  .font-sans {
+    font-family: sans-serif;
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  #btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    color: white;
+    background-color: #ff6700;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  #btn:hover {
+    background-color: #e65c00;
+  }
+  
+  .btn {
+    margin-top: 1rem;
+  }
+  
+  .bg-orange-600 {
+    background-color: #ff6700;
+  }
